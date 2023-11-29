@@ -4,7 +4,7 @@ import Vehicle from './components/Vehicle.vue';
 
 <template>
   
-  <Vehicle :x="30" :y="90" :angle="90"/>
+  <Vehicle :x="30" :y="90" :angle="0"/>
 </template>
 
 <style scoped>
