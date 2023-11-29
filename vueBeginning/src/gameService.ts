@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const apiUrl = "http://reactdemo.duckdns.org:5555/";
+const apiUrl = "http://reactdemo.duckdns.org:5555";
 
 export type directionOptions =
   | "Forward"
